@@ -1,0 +1,22 @@
+<%- include("partials/header") -%>
+<h1>Delete Passenger</h1>
+<form method="POST">
+    <div class="padding row form-group">
+        <div class="col-md-4">
+            <label for="PID">
+                <h3>Choose Passenger:</h3>
+            </label>
+            <h4 class="font-semibold">
+                <select class="btn btn-secondary white-text dropdown-toggle" name="PID" id="PID">
+                    <% for (const i in data) { %>
+                    <option class="dropdown-item white-text font-semibold" value="<%= data[i].PID %>">
+                        <%= data[i].PFName %> <%= data[i].PLName %> </option>
+                    <% } %>
+                </select>
+            </h4>
+        </div>
+    </div>
+    <button type="submit" class="padding btn btn-lg btn-primary">Delete</button>
+    <div style="height:167px"></div>
+</form>
+<%- include("partials/footer") -%>
