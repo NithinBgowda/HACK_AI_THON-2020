@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+   <Button
+       android:id="@+id/Gov_portal_button"
+       android:layout_width="300dp"
+       android:layout_height="100dp"
+       android:layout_marginTop="72dp"
+       android:background="#BAEB48"
+       android:text="@string/government_portal_n_n"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toBottomOf="@+id/disease_detection_button"
+       tools:ignore="MissingConstraints" />
+
+   <Button
+       android:id="@+id/disease_detection_button"
+       android:layout_width="300dp"
+       android:layout_height="100dp"
+       android:background="#62ED18"
+       android:text="@string/plant_disease_detection_n_n"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintHorizontal_bias="0.504"
+       app:layout_constraintStart_toStartOf="parent"
+       tools:ignore="MissingConstraints"
+       tools:layout_editor_absoluteY="135dp" />
+
+   <Button
+       android:id="@+id/Technology_updates_button"
+       android:layout_width="300dp"
+       android:layout_height="100dp"
+       android:layout_marginTop="72dp"
+       android:background="#EAE61C"
+       android:text="@string/latest_technology_updates_n_n"
+       app:layout_constraintVertical_chainStyle="packed"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toBottomOf="@+id/Gov_portal_button"
+       tools:ignore="MissingConstraints"
+       />
+
+</android.support.constraint.ConstraintLayout>
