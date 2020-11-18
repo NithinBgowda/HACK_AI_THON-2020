@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction</title>
+</head>
+<body bgcolor = #a3cfb4>
+<center>
+    <h1 style="color:blue;">PREDICTION</h1>
+    {%if data == 1%}
+    <h1 style="color: red">Danger!</h1>
+    <h2>The forest is in danger better to take precautions now</h2>
+    <a href='/'>Back to home page</a><br><br>
+    <img src = "static\danger.jpg">
+    {%endif%}
+    {%if data == 0%}
+    <h1 style="color:green">SAFE!</h1>
+    <h2>The forest is safe</h2>
+    <a href='/'>Back to home page</a><br><br>
+    <img src = "static\safe.jpg">
+    {%endif%}
+    <br><br>
+</center>
+</body>
+</html>
