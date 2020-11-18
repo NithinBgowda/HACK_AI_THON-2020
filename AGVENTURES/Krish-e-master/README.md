@@ -4,7 +4,7 @@
 -This  would allow farmers to treat their plant diseases. We 
 are using Tensorflow library(Machine Learning library) to detect plant 
 disease. The farmers can use their android device to scan a particular 
-plant leaf which they suspect for having a plant disease. We analyse the 
+plant leaf which they suspect for having a plant disease. It analyzes the 
 plant diseases, symptoms etc and then generate proper measures to 
 improve plant health.
  
