@@ -1,5 +1,5 @@
 <b>DOMAIN</b> : ENVIRONMENT<br>
-<b>TEAM NAME</b> :  SAVAGE<br>
+<b>TEAM NAME</b> : <b><i>Savage</i></b><br>
 <b>TEAM MEMBERS</b> :<br>
      ANUSHA M S<br>
      AISHWARYA PATEL<br>
