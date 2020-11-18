@@ -34,8 +34,12 @@ After COVID-19 has hit humanity, most of the educational institutions have moved
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Student_Deep2.png)
 
+There are 3 Python codes which are provided:
+1- Video Analysis with on system GUI for Analysis [File name = Uncovering_the_Truth_Only_Video_GUI_Version.ipynb]
+2- Video + Audio based Analysis along with Webapp [File name = Uncovering_the_Truth__Video_Audio_Website_Version.ipynb]
+3 - Only Video based Analysis with Webapp [File name = Uncovering_the_Truth_Only_Video_Website_Version.ipynb]
 
-
+You can create a Webapp using Anvil and send the analytical values to the server.
 
 
 
