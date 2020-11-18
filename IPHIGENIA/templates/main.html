@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<style> 
+.form {
+    margin: auto;
+    padding: auto;
+    width: 35%;
+}
+.body{
+    margin: 15em;
+}
+.fieldset{
+    border: solid;
+    padding: 1em;
+    width: 50%;
+}
+.legend{
+    padding: 0.5em;
+    font-size: 120%;
+}
+</style>
+<head>
+    <title>Covid Prediction Model</title>
+</head>
+
+<header> 
+<h1> COVID-19 DIAGNOSIS: </h1>
+</header>
+
+<div class= "body">
+
+<form action="{{ url_for('main') }}" method="POST", enctype="multipart/form-data">
+    <div class="fieldset">
+        <div class = "legend">Input:</div>
+       <label for="avatar">Choose an X-RAY:</label>
+
+       <input type="file"
+       id="avatar" name="avatar"
+       accept="image/png, image/jpeg">
+       <!--<img src="avatar" width = "500" height = "333">-->
+        <input type="submit">
+    </div>
+</div>
+</html>
