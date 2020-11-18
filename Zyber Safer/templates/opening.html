@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Predict fake website</title>
+    <style>
+        form {
+            border: 3px solid black;
+            background-color: white;
+            display: inline-block;
+            align-content: center;
+            width: 75%;
+            margin-left: 12.5%;
+            margin-right: 12.5%;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            background-color: #0affa5 !important;
+            color: black;
+        }
+
+        #submit {
+            color: black !important;
+        }
+
+        #text {
+            width: 100%;
+            height: 20%;
+            background-color: black;
+            color: white;
+        }
+
+        #input {
+            width: 100%;
+            height: 20%;
+            border: 2px solid black;
+            display: block;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body style="background-color: #d4a3ae">
+    <h1 style="text-align: center;">Phishing website detector</h1>
+    <br>
+    <form method="POST" action="{{url_for('predictor')}}">
+        <div id="input">
+            <label for="url">URL :</label>
+            <input type="text" , name="url" , placeholder="enter name" />
+        </div>
+        <div id="text">
+            <p>
+                Favicon is the image to the left of the tab title, example Google has
+                a circle.
+            </p>
+        </div>
+        <div id="input">
+            <label for=favicon>Favicon(-1 for no and 1 for yes) :</label>
+            <input type="text" , name="favicon" , placeholder="enter -1 or 1" />
+        </div>
+
+        <input type="submit" value="predict" id="submit">
+    </form>
+</body>
+
+</html>

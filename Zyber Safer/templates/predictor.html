@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body style="background-color: #a3cfb4">
+    <center>
+        <h1 style="color:blue;">PREDICTION</h1>
+        {%if data[1] == 1 %}
+            {%print(data[0]+' is a Trustable website')%}
+            <br>
+            <a href='/'>Back to home page</a><br><br>
+        {%endif%}
+        {%if data[1] != 1 %}
+            {%print(data[0]+' is a Fraudulent website')%}
+            <br>
+            <a href='/'>Back to home page</a><br><br>
+        {%endif%}
+    </center>
+</body>
+
+</html>
