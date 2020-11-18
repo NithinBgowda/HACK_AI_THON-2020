@@ -6,11 +6,11 @@ After COVID-19 has hit humanity, most of the educational institutions have moved
 
 # The ultimate idea is to help the Faculties know what's happening behind the unseen screen in a virtual digital classroom.
 
-A seperate unique Login credentials is provided for the Faculties of a particular Educational Institution and this is how Login Page looks like:
+# A seperate unique Login credentials is provided for the Faculties of a particular Educational Institution and this is how Login Page looks like:
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Login.png)
 
-Once the Faculty is logged in for a particular Class session let's say a class from 09:00am - 09:45am, if anyone has logged into the class but he/she isn't physically present an immediate Alert is given to the Faculty, just like it's shown in the image
+# Once the Faculty is logged in for a particular Class session let's say a class from 09:00am - 09:45am, if anyone has logged into the class but he/she isn't physically present an immediate Alert is given to the Faculty, just like it's shown in the image
 
 # MOHIT IS NOT PHYSICALLY PRESENT IN YOUR CLASS - Just like the way you can see in the image below:
 
