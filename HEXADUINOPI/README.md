@@ -2,7 +2,7 @@
 
 After COVID-19 has hit humanity, most of the educational institutions have moved on to Digital Education system in order to accomplish their mission.
 
-# An innovative idea which aims at delivering various information about the activities happening in a virtual classroom to the Teaching faculty without transferring the Videos of students over the Internet [Yeah! We have heard students complaining switching on video consumes Data]
+# An innovative idea which aims at delivering useful information about the activities happening in a virtual classroom to the Teaching faculty without transferring the Videos of students over the Internet [Yeah! We have heard students complaining switching on video consumes Data]
 
 # The ultimate idea is to help the Faculties know what's happening behind the unseen screen in a virtual digital classroom without the need of Students to live stream their video to the server.
 
