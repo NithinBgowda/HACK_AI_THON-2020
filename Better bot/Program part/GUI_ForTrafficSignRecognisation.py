@@ -1,6 +1,3 @@
-import tkinter as tk
-from tkinter import filedialog
-from tkinter import *
 from PIL import ImageTk, Image
 import cv2, time
 import numpy as np
