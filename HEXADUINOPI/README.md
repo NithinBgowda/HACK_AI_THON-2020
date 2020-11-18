@@ -4,7 +4,7 @@ After COVID-19 has hit humanity, most of the educational institutions have moved
 
 # An innovative idea which aims at delivering various information about the activities happening in a virtual classroom to the Teaching faculty without transferring the Videos of students over the Internet [Yeah! We have heard students complaining switching on video consumes Data]
 
-# The ultimate idea is to help the Faculties know what's happening behind the unseen screen in a virtual digital classroom.
+# The ultimate idea is to help the Faculties know what's happening behind the unseen screen in a virtual digital classroom without the need of Students to live stream their video to the server.
 
 # A seperate unique Login credentials is provided for the Faculties of a particular Educational Institution and this is how Login Page looks like:
 
