@@ -1,8 +1,8 @@
 Traffic Sign Recognition
 <br>
 Team Members:
-             Anu Yogesh
-             Varsha G Bhat
-             Mokshadayini K S 
-             Sinchana Ramesh
+             Anu Yogesh<br/>
+             Varsha G Bhat<br/>
+             Mokshadayini K S <br/>
+             Sinchana Ramesh<br/>
              
