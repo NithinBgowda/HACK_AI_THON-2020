@@ -6,4 +6,4 @@ After COVID-19 has hit humanity, most of the educational institutions have moved
 
 # The ultimate idea is to help the Faculties know what's happening behind the unseen screen.
 
-![alt text](https://github.com/[NithinBgowda]/[HACK_AI_THON-2020]/blob/[main]/[HEXADUINOPI]/[Images]/Alert.png?raw=true)
+![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Alert.png)
