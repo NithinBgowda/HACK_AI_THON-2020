@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PREDICT FIRE OCCURRENCE</title>
+    <style>
+        body{
+        backdrop-filter:blur(5px);
+        }
+    </style>
+</head>
+<body background="static\forest.jpg">
+
+<center>
+    <h1 style="color:white">FOREST FIRE OCCURRENCE PREDICTOR</h1>
+    <br><br><br>
+    <form method = "POST" , action = "{{url_for('result')}}">
+    <b style="color:white">
+        <h1>Place : <input type = "text", name = 'lol1', placeholder = "enter place name", style=""><br><br>
+        Temperature : <input type ="text", name = 'a', placeholder = "in degree celsius"><br><br>
+        Oxygen level : <input type ="text", name = 'b', placeholder = "enter oxygen level"><br><br>
+        Humidity : <input type ="text", name = 'c', placeholder = "enter humidity"><br><br><br><br><br><br>
+        </h1></b>
+    <input type = "submit", value = 'predict' style = "font-size:20px; color:black; height:70px; width:140px; background:orange; border: 2px solid rgb(37, 34, 60);">
+    </form>
+
+</center>
+
+</body>
+</html>
