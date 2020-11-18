@@ -22,7 +22,7 @@ After COVID-19 has hit humanity, most of the educational institutions have moved
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Main_Dashboard_1.png)
 
-# And Yes! if the Faculty wishes see the individual Student report that provision is also provided
+# And Yes! if the Faculty wishes to see the individual Student report that provision is also provided
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Student_Report.png)
 
