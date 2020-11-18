@@ -1,6 +1,6 @@
-Traffic Sign Recognition
+# Traffic Sign Recognition
 <br>
-Team Members:
+### Team Members:
              Anu Yogesh<br/>
              Varsha G Bhat<br/>
              Mokshadayini K S <br/>
