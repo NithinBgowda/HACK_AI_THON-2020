@@ -1,4 +1,4 @@
-## ARE YOU HAPPY WITH MY LECTURE? - UNCOVERING THE TRUTH__
+## ARE YOU HAPPY WITH MY LECTURE? - UNCOVERING THE TRUTH
 
 After COVID-19 has hit humanity, most of the educational institutions have moved on to Digital Education system in order to accomplish their mission.
 
@@ -16,7 +16,7 @@ Once the Faculty is logged in for a particular Class session let's say a class f
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Alert.png)
 
-This is how the overall report of the class is shown to the Faculty:
+# This is how the overall report of the class is shown to the Faculty:
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Main_Dashboard.png)
 
@@ -26,7 +26,7 @@ And Yes! if the Faculty wishes see the individual Student report that provision 
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Student_Report.png)
 
-More than this, If the Faculty wants to look at a Deep Analysis Report - Which indicates what was the Student doing at each and every second of the class - Yes we have that information too.....
+# More than this, If the Faculty wants to look at a __Deep Analysis Report - Which indicates what was the Student doing at each and every second of the class - Yes we have that information too.....
 
 ![alt text](https://github.com/NithinBgowda/HACK_AI_THON-2020/blob/main/HEXADUINOPI/Images/Student_Deep.png)
 
